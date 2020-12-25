@@ -5,7 +5,7 @@
   <h3 align="center">📌✨productive-box</h3>
 </p>
 
-<p align="center">
+<p align="center"> 
    <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
    <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
    <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
@@ -18,7 +18,7 @@
    <br/>
    Let's check out in gist!
 </p>
-   
+    
 ---
 
 > This project is inspired by an awesome pinned-gist project.<br/>Find more in https://github.com/matchai/awesome-pinned-gists
